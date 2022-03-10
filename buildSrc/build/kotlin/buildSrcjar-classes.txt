@@ -1,0 +1,1 @@
+/Users/asingh/Documents/android_workspace/GithubReposCompose/buildSrc/build/classes/kotlin/main/Configs.class:/Users/asingh/Documents/android_workspace/GithubReposCompose/buildSrc/build/classes/kotlin/main/Libraries.class:/Users/asingh/Documents/android_workspace/GithubReposCompose/buildSrc/build/classes/kotlin/main/Versions.class
